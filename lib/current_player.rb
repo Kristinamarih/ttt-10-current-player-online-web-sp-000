@@ -8,7 +8,5 @@ end
  return counter
  end
     
-  
-    
-  
-# return number of turns that have been played
+def current_player(board)
+  if turn_count
